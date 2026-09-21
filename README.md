@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/david8575/LeetCodeRepository/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/david8575/LeetCodeRepository/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/david8575/LeetCodeRepository/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2352-equal-row-and-column-pairs](https://github.com/david8575/LeetCodeRepository/tree/master/2352-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/david8575/LeetCodeRepository/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/david8575/LeetCodeRepository/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2352-equal-row-and-column-pairs](https://github.com/david8575/LeetCodeRepository/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/david8575/LeetCodeRepository/tree/master/1657-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/david8575/LeetCodeRepository/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/david8575/LeetCodeRepository/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
