@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/david8575/LeetCodeRepository/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/david8575/LeetCodeRepository/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/david8575/LeetCodeRepository/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/david8575/LeetCodeRepository/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/david8575/LeetCodeRepository/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/david8575/LeetCodeRepository/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/david8575/LeetCodeRepository/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -75,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/david8575/LeetCodeRepository/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/david8575/LeetCodeRepository/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/david8575/LeetCodeRepository/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/david8575/LeetCodeRepository/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/david8575/LeetCodeRepository/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
